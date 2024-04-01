@@ -1,0 +1,32 @@
+nav > a {
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    margin-right: 2%;
+    font-size: medium;
+    text-align: center;
+    width: 100%;
+}
+
+nav > a.active {
+    background-color: #fd9ba4;
+}
+
+.header-row {
+    width: 100%;
+}
+.head{
+    background-color: #eb6070;
+}
+#prueba{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+#heel{
+    font-family: "Dancing Script", cursive;
+    font-size: xx-large;
+    margin-left: 1%;
+}

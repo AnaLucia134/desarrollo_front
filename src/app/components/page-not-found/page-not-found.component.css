@@ -1,0 +1,16 @@
+div {
+    font-size: 40px;
+    margin-top: 19%;
+    margin-left: 28%;
+}
+
+div > a {
+    text-decoration: none;
+    margin-left: 19.5%;
+}
+h1{
+    font-size: xx-large;
+}
+a{
+    font-size: x-large;
+}

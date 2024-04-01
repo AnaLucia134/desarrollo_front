@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eb6070;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+footer {
+    background-color: #eb6070;
+    color: #fff;
+    padding: 50px 0;
+    width: 100%;
+}
+#part1{
+    display: flex;
+}
+.line{
+    border-bottom: solid 1px #FFFf;
+    width: 40%;
+}
+.box{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+.icons, ul, li{
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    width: 40%;
+    justify-content: center;
+    padding: 0% 10%;
+}
+.name{
+
+    margin-top: 2%;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style:normal;
+
+}
+.enlaces{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.enlaces div, p, a{
+    text-decoration: none;
+    color: #fff;
+}
+.enlaces div{
+    margin: 0% 1%;
+    align-items: center;
+    text-align: center;
+}
+.line2{
+    border-left: solid 1px #fff;
+    padding-left: 1%;
+}
